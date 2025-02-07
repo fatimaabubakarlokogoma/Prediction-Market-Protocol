@@ -7,3 +7,5 @@ D
 tests/market.test.ts,5/f/5f87c243df31ffeb013aaaa203377a636dc4ee45
 Q
 !contracts/dispute-resolution.clar,5/a/5acd40b2788851c069b177145b3954820caeb4e5
+P
+ tests/dispute-resolution.test.ts,8/3/83dac8f4da86f7a325bc49059e9bff6e05cc07d4
