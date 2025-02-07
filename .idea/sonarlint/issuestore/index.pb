@@ -15,3 +15,5 @@ D
 contracts/token.clar,7/4/74a645c5dc0e0680927925d20eaba7b5e1ab18f7
 =
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
+C
+tests/token.test.ts,b/9/b9e5aab764d81264472a73b439c0715e8f2f9c5a
